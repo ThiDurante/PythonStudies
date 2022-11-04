@@ -1,0 +1,2 @@
+# PythonStudies
+Exercises in python :)
