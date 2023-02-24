@@ -3,7 +3,7 @@ print('line2')
 
 # sep adds the selected character beetween elements
 # end adds the selected character at the end of the line, any prevents line breaking
-# putting 2 prints together
+#  putting 2 prints together
 print('Thiago', 'Durante', sep='-', end=' ')
 print('Thiago', 'Durante')
 
