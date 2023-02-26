@@ -37,7 +37,7 @@ while True:
             clean_user_CPF)
         if repetitive_numbers_validator:
             print('Repetitive numbers are not allowed')
-            continue
+            return continue
 
     # separating the digits on strings
 
